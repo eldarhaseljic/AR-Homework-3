@@ -1,22 +1,7 @@
 # AR-Homework-3
 Fakultet elektrotehnike Tuzla - Arhitektura racunara 
 
-# ZADAĆA 3
-
-## Arhitektura računara
-
 ## Maj, 2018.
-
-## Sadržaj
-
-## 1 Zadatak 1 2
-
-## 2 Zadatak 2 2
-
-## 3 Zadatak 3 2
-
-## 4 Zadatak 4 3
-
 
 ## Zadatak 1
 
